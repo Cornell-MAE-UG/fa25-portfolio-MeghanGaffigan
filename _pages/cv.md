@@ -35,8 +35,8 @@ Meghan Gaffigan
   - Communicated with and sourced components from external suppliers.
   - Presented in front of 25+ Executives.
 
-- **Superior Engineering, LLC. — Mechanical Engineering Intern**
-  Hammond, IN  
+- **Superior Engineering, LLC. — Mechanical Engineering Intern**  
+Hammond, IN  
   *JUNE 2024 - AUGUST 2024*
   - Supported senior engineers in 10 trips to client sites.
   - Collaborated with different divisions of engineers throughout the company.
@@ -59,8 +59,8 @@ Meghan Gaffigan
 
 #### Leadership Experience
 
-- **Division I NCAA Student Athlete — Cornell University Volleyball**
-  *AUGUST 2022 - NOVEMBER 2025*
+- **Division I NCAA Student Athlete — Cornell University Volleyball**  
+*AUGUST 2022 - NOVEMBER 2025*
   - Leader of Strength and Conditioning Leadership Team.
   - Devoting 30+ hours a week for team meetings, practice, competition, travel, etc.
   - Two time Wall of Honor recipient (achieved the largest margin of strength and conditioning testing values).
