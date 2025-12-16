@@ -6,7 +6,7 @@ permalink: /cv/
 ## Curriculum Vitae
 
 
-[Download my CV]({ "/assets/Meghan_Gaffigan_Resume.pdf" | relative_url })
+[Download my CV]({{ "/assets/Meghan_Gaffigan_Resume.pdf" | relative_url }})
 
 
 Meghan Gaffigan  
