@@ -27,8 +27,8 @@ Meghan Gaffigan
 
 #### Experience
 
-- **Toyota Material Handling North America — Production Engineer Intern**
-  Columbus, IN  
+- **Toyota Material Handling North America — Production Engineer Intern**  
+Columbus, IN  
   *MAY 2025 - AUGUST 2025*
   - Investigated, designed, iterated, and implemented mechanical solutions to a production line issue.
   - Initiated one-on-one meetings discussing career paths and advice with Executive Officers.
@@ -66,9 +66,8 @@ Hammond, IN
   - Two time Wall of Honor recipient (achieved the largest margin of strength and conditioning testing values).
   - Competing and excelling in a fast-paced environment focused on daily continuous improvement.
 
-- **Big Red Pride — Athlete Ally Cornell Chapter — President**
-   
-  *JANUARY 2025 - PRESENT*
+- **Big Red Pride — Athlete Ally Cornell Chapter — President**  
+*JANUARY 2025 - PRESENT*
   - Administrate team meetings, plan events, focus on recruitment and student involvement.
 
 - **Enactus Sustainable Entrepreneurship — Subteam Lead**
