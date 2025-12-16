@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Meghan Gaffigan - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
@@ -8,23 +8,23 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [mag467@cornell.edu](mailto:mag467@cornell.edu) | | | **Phone:** +1 219 983 2313
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring engineering student with a strong foundation in production and manufacturing. Passionate about product design and eager to apply my knowledge in real-world applications.
 
 ---
 
 #### Education
-- **Cornell University**  
+- **Cornell University**
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  Graduation: May, 2026
 
-- **[High School Name]**  
+- **Chesterton Senior High School**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: [June, 2022]
 
 ---
 
@@ -63,7 +63,8 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
+- Member of Cornell's NCAA Division I Volleyball Program 
+- Co-President of Big Red Pride 
 - Volunteer for [Event/Organization Name]  
 
 ---
