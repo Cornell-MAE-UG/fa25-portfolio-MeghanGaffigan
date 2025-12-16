@@ -8,7 +8,8 @@ permalink: /cv/
 
 [Download my CV]({{ "/assets/Meghan_Gaffigan_Resume.pdf" | relative_url }})
 
-[![LinkedIn]({{ "/assets/images/LI-In-Bug.png" | relative_url }})](https://www.linkedin.com/in/meghan-gaffigan-656970289)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/meghan-gaffigan-656970289)
+
 
 
 Meghan Gaffigan  
