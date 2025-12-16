@@ -5,16 +5,12 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
+Meghan Gaffigan  
+(219) 983-2313 | meghan.gaffigan@gmail.com
 
 [Download my CV]({{ "/assets/Meghan_Gaffigan_Resume.pdf" | relative_url }})
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/meghan-gaffigan-656970289)
-
-
-
-Meghan Gaffigan  
-(219) 983-2313 | meghan.gaffigan@gmail.com
-
 ---
 
 #### Education
