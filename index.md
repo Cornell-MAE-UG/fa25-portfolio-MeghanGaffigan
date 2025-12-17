@@ -5,7 +5,7 @@ title: Meghan Gaffigan
 
 ## About Me
 
-<img src="{{ '/assets/images/profile-pic.jpg' | relative_url }}"
+<img src="{{ '/assets/MeghanHeadshot.jpg' | relative_url }}"
      alt="Profile Picture"
      class="profile-image">
 
