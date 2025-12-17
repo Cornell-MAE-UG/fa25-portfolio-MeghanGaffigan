@@ -5,14 +5,10 @@ title: Meghan Gaffigan
 
 ## About Me
 
-
-
-
-<img src="{{ '/assets/images/MeghanHeadshot.jpg' | relative_url }}"
+<img src="{{ '/assets/images/profile-pic.jpg' | relative_url }}"
      alt="Profile Picture"
      class="profile-image">
 
- 
 My name is {{ site.name }}, and I am a senior studying Mechanical Engineering at Cornell University. I have a focus in manufacturing, production, and product development. I enjoy the intersection between design and engineering as well as conveying the goals of engineering to customers and other departments.
 
 
