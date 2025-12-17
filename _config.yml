@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Meghan Gaffigan
 description              : Meghan Gaffigan - Projects and CV 
-baseurl                  : "Meghan Gaffigan" # Set this to your repo name 
+baseurl                  : "" # Set this to your repo name 
 
 # Theme and Style
 theme: jekyll-theme-minimal
