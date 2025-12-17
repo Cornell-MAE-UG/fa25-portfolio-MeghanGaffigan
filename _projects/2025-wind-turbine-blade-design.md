@@ -9,6 +9,6 @@ permalink: /projects/2025-wind-turbine-blade-design/
 
 For a class, we were asked to CAD a complex object...
 
-![Shaded rendering of earlier version]({{ "/assets/windturbine.gif" | relative_url }}){: .inline-image-r style="width: 200px"}
+![Shaded rendering of earlier version]({{ "/assets/images/windturbine.gif" | relative_url }}){: .inline-image-r style="width: 200px"}
 
-![Photo of Blade CAD]({{ "/assets/blade-image.png" | relative_url }}){: .inline-image-l}
+![Photo of Blade CAD]({{ "/assets/images/blade-image.png" | relative_url }}){: .inline-image-l}
