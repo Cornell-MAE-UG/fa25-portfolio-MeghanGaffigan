@@ -4,6 +4,7 @@ title: MAE 4272 Wind Turbine Blade Design <!---->
 description: Advanced CAD Project
 technologies: [Autodesk Fusion]
 image: /assets/images/windturbine.gif
+permalink: /projects/2025-wind-turbine-blade-design/
 ---
 
 For a class, we were asked to CAD a complex object...
