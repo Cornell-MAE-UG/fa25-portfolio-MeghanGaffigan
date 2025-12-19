@@ -95,13 +95,13 @@ image: /assets/images/737tiedup.jpg
   
 
 1. Should Boeing have been able to waive the angle of attack results?
-    Facts: 
-    * Boeing was aware of the faulty AOA sensor. 
-    * Boeing did nothing about the results indicating the faulty sensor. 
-    Assumptions:
-    * Boeing actively decided to ignore the test results
-    Justification:
-    * Boeing should have recorded, investigated, and replaced all known faulty sensors. 
+    * Facts: 
+        Boeing was aware of the faulty AOA sensor. 
+        Boeing did nothing about the results indicating the faulty sensor. 
+    * Assumptions:
+        Boeing actively decided to ignore the test results
+    * Justification:
+        Boeing should have recorded, investigated, and replaced all known faulty sensors. 
 2. Should Boeing have been able to not include MCAS in the pilot training module?
     Facts:
     * There is evidence that Boeing had considered putting it in the manual. 
@@ -141,7 +141,7 @@ image: /assets/images/737tiedup.jpg
 
   
 
-**Finally, I concluded 5 things that should have been done differently regarding the crashes:**
+**TLDR: Finally, I concluded 5 things that should have been done differently regarding the crashes:**
 1. **The FAA should not have been allowed to outsource the regulations to Boeing. They should have done the regulating themselves.** 
 2. **MCAS should have been fully detailed and included in the manual to uphold public safety and welfare.** 
 3. **Boeing or the FAA should have formally investigated and grounded the 737 Max planes after the first crash.** 
