@@ -64,43 +64,43 @@ The Boeing **737 MAX crashes** in **2018 (Lion Air Flight 610)** and **2019 (Eth
 
 
 2. Should Boeing have been able to not include MCAS in the pilot training manual?
-    * Stakeholders: 
-	    * Primary: Pilots
-	    * Secondary: Passengers & Families of victims
-        * Decision-Makers: Boeing executives
-    * Canons: 1, 2, 4, & 5
+* Stakeholders: 
+    * Primary: Pilots
+    * Secondary: Passengers & Families of victims
+    * Decision-Makers: Boeing executives
+* Canons: 1, 2, 4, & 5
     * Conflict Analysis: Canon 1 conflicts with Canon 4 because crucial information (the inner working of MCAS) was withheld, directly conflicting with Canon 1. They did not act as “faithful agents”. 
-    * Hierarchy Decision: Canon 1 should take absolute precedence and Canon 4 should be respected with all necessary information to all parties. 
+* Hierarchy Decision: Canon 1 should take absolute precedence and Canon 4 should be respected with all necessary information to all parties. 
 
 
 3. Should the FAA have been able to outsource Boeing inspections and regulations to Boeing?
-    * Stakeholders: 
-        * Primary: FAA & Boeing representatives
-        * Secondary: Airlines & Boeing shareholders & Pilots
-        * Decision-Makers: Certification engineers, other engineers involved, and the FAA representatives
-    * Canons: 1, 2, & 4
-    * Conflict Analysis: Canon 1 conflicts with Canon 4 because safety was not held paramount because there was a conflict of interest to find a loophole for a safety concern. 
-    * Hierarchy Decision: Canon 1 should take absolute precedence. The safety of the general public was not held paramount. Boeing and the FAA allowed for bias to influence decisions made that affect not only their employees but also the general public. 
+* Stakeholders: 
+    * Primary: FAA & Boeing representatives
+    * Secondary: Airlines & Boeing shareholders & Pilots
+    * Decision-Makers: Certification engineers, other engineers involved, and the FAA representatives
+* Canons: 1, 2, & 4
+* Conflict Analysis: Canon 1 conflicts with Canon 4 because safety was not held paramount because there was a conflict of interest to find a loophole for a safety concern. 
+* Hierarchy Decision: Canon 1 should take absolute precedence. The safety of the general public was not held paramount. Boeing and the FAA allowed for bias to influence decisions made that affect not only their employees but also the general public. 
 
 
 4. Who is responsible for grounding a plane after it crashes?
-    * Stakeholders: 
-        * Primary: FAA, Boeing representatives, and Airlines
-        * Secondary: Pilots & Passengers
-        * Decision-Makers: FAA Representatives, Boeing Executives, and Boeing Engineers
-    * Canons: 1, 2, 4, & 7
-    * Conflict Analysis: Canons 2, 4, and 7 were all not obliged by, which conflicted with Canon 1. The public statement following the first crash did not provide all necessary information. 
-    * Hierarchy Decision: Canon 1 should take absolute precedence. The safety of the general public was not held paramount. 
+* Stakeholders: 
+    * Primary: FAA, Boeing representatives, and Airlines
+    * Secondary: Pilots & Passengers
+    * Decision-Makers: FAA Representatives, Boeing Executives, and Boeing Engineers
+* Canons: 1, 2, 4, & 7
+* Conflict Analysis: Canons 2, 4, and 7 were all not obliged by, which conflicted with Canon 1. The public statement following the first crash did not provide all necessary information. 
+* Hierarchy Decision: Canon 1 should take absolute precedence. The safety of the general public was not held paramount. 
 
-    
+
 5. Should Boeing have ignored feedback from the pilot testing?
-    * Stakeholders: 
-        * Primary: Pilots and Boeing Management
-        * Secondary: Other engineers involved after the test was completed
-        * Decision-Makers: Boeing Management and Engineers
-    * Canons: 1, 2, &4
-    * Conflict Analysis: Safety was put second to the plane production timeline and cost. Management should have trusted the industry experts (the testing pilots) rather than sweeping their results under the rug. Canons 1 and 4 were not respected. 
-    * Hierarchy Decision: Canon 2 could have been respected more which would have resulted in Canon 1 being upheld. 
+* Stakeholders: 
+    * Primary: Pilots and Boeing Management
+    * Secondary: Other engineers involved after the test was completed
+    * Decision-Makers: Boeing Management and Engineers
+* Canons: 1, 2, &4
+* Conflict Analysis: Safety was put second to the plane production timeline and cost. Management should have trusted the industry experts (the testing pilots) rather than sweeping their results under the rug. Canons 1 and 4 were not respected. 
+* Hierarchy Decision: Canon 2 could have been respected more which would have resulted in Canon 1 being upheld. 
 
 **Once we compiled all these pieces regarding each question, we stated the facts and assumptions for each.**  
   
