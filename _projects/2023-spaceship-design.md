@@ -61,6 +61,8 @@ The Boeing **737 MAX crashes** in **2018 (Lion Air Flight 610)** and **2019 (Eth
     * Canons: 1 & 4
     * Conflict Analysis: Canon 1 was completely disregarded because of Boeing’s decision to prioritize producing the plane for as cheap and as quickly as possible. 
     * Hierarchy Decision: Canon 1 should take absolute precedence, but the financial interest of the company was put above the due diligence expected of a product that puts the lives of passengers in its hands. 
+
+
 2. Should Boeing have been able to not include MCAS in the pilot training manual?
     * Stakeholders: 
 	    * Primary: Pilots
@@ -69,6 +71,8 @@ The Boeing **737 MAX crashes** in **2018 (Lion Air Flight 610)** and **2019 (Eth
     * Canons: 1, 2, 4, & 5
     * Conflict Analysis: Canon 1 conflicts with Canon 4 because crucial information (the inner working of MCAS) was withheld, directly conflicting with Canon 1. They did not act as “faithful agents”. 
     * Hierarchy Decision: Canon 1 should take absolute precedence and Canon 4 should be respected with all necessary information to all parties. 
+
+
 3. Should the FAA have been able to outsource Boeing inspections and regulations to Boeing?
     * Stakeholders: 
         * Primary: FAA & Boeing representatives
@@ -77,6 +81,8 @@ The Boeing **737 MAX crashes** in **2018 (Lion Air Flight 610)** and **2019 (Eth
     * Canons: 1, 2, & 4
     * Conflict Analysis: Canon 1 conflicts with Canon 4 because safety was not held paramount because there was a conflict of interest to find a loophole for a safety concern. 
     * Hierarchy Decision: Canon 1 should take absolute precedence. The safety of the general public was not held paramount. Boeing and the FAA allowed for bias to influence decisions made that affect not only their employees but also the general public. 
+
+
 4. Who is responsible for grounding a plane after it crashes?
     * Stakeholders: 
         * Primary: FAA, Boeing representatives, and Airlines
@@ -85,6 +91,8 @@ The Boeing **737 MAX crashes** in **2018 (Lion Air Flight 610)** and **2019 (Eth
     * Canons: 1, 2, 4, & 7
     * Conflict Analysis: Canons 2, 4, and 7 were all not obliged by, which conflicted with Canon 1. The public statement following the first crash did not provide all necessary information. 
     * Hierarchy Decision: Canon 1 should take absolute precedence. The safety of the general public was not held paramount. 
+
+    
 5. Should Boeing have ignored feedback from the pilot testing?
     * Stakeholders: 
         * Primary: Pilots and Boeing Management
