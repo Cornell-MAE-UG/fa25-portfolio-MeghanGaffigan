@@ -4,7 +4,7 @@ title: MAE 4300 Boeing 737 Max Case Study
 description: A deep dive into the cause and decisions made about the crashes. 
 image: /assets/images/737tiedup.jpg
 ---
-## SUMMARY
+#### Summary
 The Boeing **737 MAX crashes** in **2018 (Lion Air Flight 610)** and **2019 (Ethiopian Airlines Flight 302)** were largely linked to a new flight-control feature called the **Maneuvering Characteristics Augmentation System (MCAS)**. MCAS was designed to automatically push the aircraft’s nose down if it sensed a high angle of attack, to prevent a stall, but it relied on data from just one sensor and could activate erroneously. In both crashes faulty sensor data repeatedly triggered MCAS, driving the nose down despite pilots’ efforts to counteract it. Pilots were not adequately trained on MCAS, and it was not clearly documented in manuals, contributing to loss of control and the deaths of all passengers and crew on both flights.
 
 ***TLDR Conclusions found at the bottom.***
