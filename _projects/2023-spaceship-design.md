@@ -21,18 +21,20 @@ image: /assets/images/737tiedup.jpg
 **From there, we narrowed the focus. We asked: why is the issue critically important to the Boeing 737 Max case and what makes this issue more significant than the other we decided not to use?**
   
 1. Should Boeing have been able to waive the angle of attack results?
-        The angle of attack used by Boeing in their 737 Max planes was known to be routinely faulty, but this meant that MCAS (which relied heavily on the AOA sensor) was also prone to failure. 
+    * The angle of attack used by Boeing in their 737 Max planes was known to be routinely faulty, but this meant that MCAS (which relied heavily on the AOA sensor) was also prone to failure. 
 2. Should Boeing have been able to not include MCAS in the pilot training manual?
-        If the pilots were trained in how MCAS works, they could have overridden the system and prevented the crashes. This means Boeing did not give the pilots all the necessary information to fly the plane safely. But Boeing had an indirect incentive placed by outside sources to not include the necessary training. Boeing would have had to pay more money if more training was for their new plane. 
+    * If the pilots were trained in how MCAS works, they could have overridden the system and prevented the crashes. This means Boeing did not give the pilots all the necessary information to fly the plane safely. But Boeing had an indirect incentive placed by outside sources to not include the necessary training. Boeing would have had to pay more money if more training was for their new plane. 
 3. Should the FAA have been able to outsource Boeing inspections and regulations to Boeing?
-        Outsourcing to Boeing meant the inspection relied on trusting that inspectors would make decisions unbiased to Boeing. This was the last line of defense before the issue interacted with the public. 
+    * Outsourcing to Boeing meant the inspection relied on trusting that inspectors would make decisions unbiased to Boeing. This was the last line of defense before the issue interacted with the public. 
 4. Who is responsible for grounding a plane after it crashes?
-        If there was a full inspection done on the first plane and the first crash, then they would have found that the crash resulted because of a faulty angle of attack sensor. This should have prompted someone, either the FAA, airlines, or Boeing, to think about what that could mean for other planes of that make and model, thus avoiding the second crash. 
+    * If there was a full inspection done on the first plane and the first crash, then they would have found that the crash resulted because of a faulty angle of attack sensor. This should have prompted someone, either the FAA, airlines, or Boeing, to think about what that could mean for other planes of that make and model, thus avoiding the second crash. 
 5. Should Boeing have ignored feedback from the pilot testing?
-        The email showing the feedback given from the pilots contains the quantitative, indisputable evidence that Boeing was aware of the potentially faulty angle of attack sensors, but they did not do anything to resolve this. 
+    * The email showing the feedback given from the pilots contains the quantitative, indisputable evidence that Boeing was aware of the potentially faulty angle of attack sensors, but they did not do anything to resolve this. 
 
 
 **Narrowing and becoming more specific with the issues I took a close look at, I detailed what stakeholders affected (primarily, secondarily, and the decision makers), the ASME Canons most relevant, the conflict analysis, and the hierarchy decision.** 
+  
+
 *The ASME Canons are as follows:*
 1. *Engineers shall hold paramount the safety, health, and welfare of the public in the performance of their professional duties.*
 2. *Engineers shall perform services only in the areas of their competence; they shall build their professional reputation on the merit of their services and shall not compete unfairly with others.* 
@@ -46,6 +48,8 @@ image: /assets/images/737tiedup.jpg
 10. *Engineers who are members of the Society shall abide by the Constitution, By-Laws, and Policies of the Society, and they shall disclose knowledge of any matter involving another member’s alleged violation of the Policies of the Society in a prompt, complete and truthful manner to either the Executive Director/CEO or any member of the Executive Committee of the Board of Governors or ASME Human Resources who shall promptly notify the full Executive Committee. The Executive Committee shall initially determine whether the alleged conduct shall be addressed through this Policy or Policy 15.4 “Ethical Conduct Violation Procedures” or Policy 15.8 “Conflicts of Interest” or Policy 15.9 “Policy Against Discrimination (Including Discriminatory Harassment) – Members” or Policy 15.14 “Code of Conduct.” There may be situations where actions are taken pursuant to one or more Society Policies.*
 
 **Going through each of the questions:**
+  
+
 1.Should Boeing have been able to waive the angle of attack results?
 * Stakeholders: 
 	* Primary: Boeing Engineers & Executives
@@ -87,7 +91,9 @@ image: /assets/images/737tiedup.jpg
     * Conflict Analysis: Safety was put second to the plane production timeline and cost. Management should have trusted the industry experts (the testing pilots) rather than sweeping their results under the rug. Canons 1 and 4 were not respected. 
     * Hierarchy Decision: Canon 2 could have been respected more which would have resulted in Canon 1 being upheld. 
 
-*Once we compiled all these pieces regarding each question, we stated the facts and assumptions for each.*
+**Once we compiled all these pieces regarding each question, we stated the facts and assumptions for each.**  
+  
+
 1. Should Boeing have been able to waive the angle of attack results?
     Facts: 
     * Boeing was aware of the faulty AOA sensor. 
