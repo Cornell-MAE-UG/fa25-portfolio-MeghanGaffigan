@@ -4,7 +4,10 @@ title: MAE 4300 Boeing 737 Max Case Study
 description: A deep dive into the cause and decisions made about the crashes. 
 image: /assets/images/737tiedup.jpg
 ---
+# SUMMARY
+The Boeing **737 MAX crashes** in **2018 (Lion Air Flight 610)** and **2019 (Ethiopian Airlines Flight 302)** were largely linked to a new flight-control feature called the **Maneuvering Characteristics Augmentation System (MCAS)**. MCAS was designed to automatically push the aircraft’s nose down if it sensed a high angle of attack, to prevent a stall, but it relied on data from just one sensor and could activate erroneously. In both crashes faulty sensor data repeatedly triggered MCAS, driving the nose down despite pilots’ efforts to counteract it. Pilots were not adequately trained on MCAS, and it was not clearly documented in manuals, contributing to loss of control and the deaths of all passengers and crew on both flights.
 
+**TLDR Conclusions found at the bottom.**
 
 **First, we started with ten ethical issues for the crisis, posed in the form of questions:**
 1. Should Boeing be able to waive the AOA test results?
@@ -95,49 +98,49 @@ image: /assets/images/737tiedup.jpg
   
 
 1. Should Boeing have been able to waive the angle of attack results?
-    * Facts: 
-        Boeing was aware of the faulty AOA sensor. 
-        Boeing did nothing about the results indicating the faulty sensor. 
-    * Assumptions:
-        Boeing actively decided to ignore the test results
-    * Justification:
-        Boeing should have recorded, investigated, and replaced all known faulty sensors. 
+* Facts: 
+    * Boeing was aware of the faulty AOA sensor. 
+    * Boeing did nothing about the results indicating the faulty sensor. 
+* Assumptions:
+    * Boeing actively decided to ignore the test results
+* Justification:
+    * Boeing should have recorded, investigated, and replaced all known faulty sensors. 
 2. Should Boeing have been able to not include MCAS in the pilot training module?
-    Facts:
+* Facts:
     * There is evidence that Boeing had considered putting it in the manual. 
     * The training was decidedly not included in the manual. 
     * Boeing was disincentivised to add the necessary training due to the added cost that airlines require when training is added. 
-    Assumptions:
+* Assumptions:
     * Boeing did not opt for the extra training because it required extra time and money.
     Justification:
     * MCAS should have been fully detailed and included in the manual to uphold public safety and welfare. 
 3. Should the FAA have been able to outsource Boeing inspections and regulations to Boeing?
-    * Facts:
-        The FAA allows the expert evaluations to be outsourced to the companies being evaluated. 
-        The test results showing the faulty system were overlooked. 
-    * Assumption: 
-        The outsourcing occurred because of the lack of use of money and time.
-        Boeing was aware of the faulty test results.
-        Boeing representatives were pushing a commercial agenda from market pressure. 
-    *  Justification:
-        The FAA should have regulated Boeing themselves rather than outsourcing to the company being evaluated. Outsourcing allows for safety to be ignored and professional interest to be held paramount.
+* Facts:
+    * The FAA allows the expert evaluations to be outsourced to the companies being evaluated. 
+    * The test results showing the faulty system were overlooked. 
+* Assumption: 
+    * The outsourcing occurred because of the lack of use of money and time.
+    * Boeing was aware of the faulty test results.
+    * Boeing representatives were pushing a commercial agenda from market pressure. 
+*  Justification:
+    * The FAA should have regulated Boeing themselves rather than outsourcing to the company being evaluated. Outsourcing allows for safety to be ignored and professional interest to be held paramount.
 4. Who is responsible for grounding a plane after it crashes?
-    * Facts:
-        Boeing and the FAA did not ground any planes after the first crash.
-        Boeing came out with a statement to the public ensuring continued safety.
-    * Assumptions:
-        Boeing held public image and brand image above the safety of passengers rather than grounding the planes.
-        Boeing either ignored the cause of the crash or ignored the findings they found with an investigation. 
-    * Justification:
-        Boeing should have grounded the 737 Max’s and conducted a formal investigation for the safety of the public. 
+* Facts:
+    * Boeing and the FAA did not ground any planes after the first crash.
+    * Boeing came out with a statement to the public ensuring continued safety.
+* Assumptions:
+    * Boeing held public image and brand image above the safety of passengers rather than grounding the planes.
+    * Boeing either ignored the cause of the crash or ignored the findings they found with an investigation. 
+* Justification:
+    * Boeing should have grounded the 737 Max’s and conducted a formal investigation for the safety of the public. 
 5. Should Boeing have ignored feedback from the pilot testing?
-    * Facts:
-        There were pilots that reported the exact issue before they happened to Boeing that caused the crashes. 
-        There was email evidence of neglect for the feedback given from the pilots. 
-    * Assumptions:
-        Boeing chose to neglect the feedback because it would push back the timeline of production and because of market pressure. 
-    * Justification:
-        Boeing should have held the pilot and passenger safety paramount and respected the expert (pilot) feedback on the product. 
+* Facts:
+    * There were pilots that reported the exact issue before they happened to Boeing that caused the crashes. 
+    * There was email evidence of neglect for the feedback given from the pilots. 
+* Assumptions:
+    * Boeing chose to neglect the feedback because it would push back the timeline of production and because of market pressure. 
+* Justification:
+    * Boeing should have held the pilot and passenger safety paramount and respected the expert (pilot) feedback on the product. 
 
   
 
