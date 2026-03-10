@@ -2,7 +2,7 @@
 layout: project
 title: Heat Transfer Problem and Analysis
 description: Step by step analysis of a Heat Transfer Problem
-image: /assets/images/pset4no2pic.png
+image: /assets/images/hw4no1pic.jpg
 ---
 ### Step by Step Analysis Completed: 
 
