@@ -7,16 +7,7 @@ image: /assets/images/pset4no2pic.png
 ### Step by Step Analysis Completed: 
 
 **First, we started with ten ethical issues for the crisis, posed in the form of questions:**
-1. Should Boeing be able to waive the AOA test results?
-2. Should Boeing be able to prioritize profit over safety?
-3. Should Boeing be able to include only limited information about MCAS in the new manual?
-4. Should the FAA have been able to outsource monitoring and regulating the Boeing projects to Boeing employees?
-5. Should Boeing have ignored or brushed off the pilot testing feedback?
-6. Should Boeing have been able to not include MCAS in the manual?
-7. Should Boeing have to pay extra when adding extra training to the manuals?
-8. Should Boeing’s middle management have been able to brush off every issue brought up by the engineers? 
-9. Should Boeing have grounded all 737 Max’s after the first crash? 
-10. Should the FAA have grounded all 737 Max’s after the first crash?
+1. Should
 
 **From there, we narrowed the focus. We asked: why is the issue critically important to the Boeing 737 Max case and what makes this issue more significant than the other we decided not to use?**
   
